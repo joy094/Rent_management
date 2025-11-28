@@ -1,6 +1,6 @@
 # 🏠 Tenant Management – One-Page MERN Web App
 
-**Live Demo:** [Primary Demo](https://rent-management-1.onrender.com) | [Secondary Demo](https://rent-management-1.onrender.com)
+**Live Demo:** [Primary Demo](https://rent-management-f.onrender.com/) | [Secondary Demo](https://rent-management-f.onrender.com/)
 
 A clean and minimal **one-page Tenant Management system** built with the **MERN stack**, designed to help house owners or building managers quickly track tenant payments, dues, bills, and month-wise summaries — **without any authentication or admin panel**. Everything is managed instantly from a single page.
 
@@ -43,7 +43,7 @@ This is a simple one-page management system — no login is required. Perfect fo
 
 ## 🔗 Live Demo
 
-Try the app online: [Primary Demo](https://rent-management-1.onrender.com) | [Secondary Demo](https://rent-management-1.onrender.com)
+Try the app online: [Primary Demo](https://rent-management-f.onrender.com/) | [Secondary Demo](https://rent-management-f.onrender.com/)
 
 ---
 
@@ -63,7 +63,7 @@ Try the app online: [Primary Demo](https://rent-management-1.onrender.com) | [Se
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/RENT_MANAGEMENT.git
+git clone https://github.com/joy094/Rent_Management.git
 
 # Backend setup
 cd Rent_Management
