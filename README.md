@@ -66,7 +66,7 @@ Try the app online: [Primary Demo](https://rent-management-1.onrender.com) | [Se
 git clone https://github.com/your-username/RENT_MANAGEMENT.git
 
 # Backend setup
-cd RENT_MANAGEMENT
+cd Rent_Management
 npm install
 npm start
 
